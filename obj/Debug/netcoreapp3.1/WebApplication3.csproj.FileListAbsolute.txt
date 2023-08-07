@@ -324,7 +324,6 @@ C:\liem\personal\Personal coding projects\InventoryManager\obj\Debug\netcoreapp3
 C:\liem\personal\Personal coding projects\InventoryManager\obj\Debug\netcoreapp3.1\WebApplication3.RazorCoreGenerate.cache
 C:\liem\personal\Personal coding projects\InventoryManager\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\liem\personal\Personal coding projects\InventoryManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\liem\personal\Personal coding projects\InventoryManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\liem\personal\Personal coding projects\InventoryManager\obj\Debug\netcoreapp3.1\Razor\Views\Items\Create.cshtml.g.cs
 C:\liem\personal\Personal coding projects\InventoryManager\obj\Debug\netcoreapp3.1\Razor\Views\Items\Delete.cshtml.g.cs
 C:\liem\personal\Personal coding projects\InventoryManager\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
